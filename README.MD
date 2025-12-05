@@ -1,4 +1,4 @@
-#A(I)dam 
+# A(I)dam 
 This is fun silly project I made
 This is for a friend discord sever where the bot act like one of my friend
 
